@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "add": "../add-1.0.0.tgz"
+    "add": "../add/add-1.0.0.tgz"
   }
 }
