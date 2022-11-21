@@ -1,0 +1,14 @@
+{
+  "name": "@chris.troutner/test-add",
+  "version": "1.0.0",
+  "description": "Tests the add package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "add": "../add-1.0.0.tgz"
+  }
+}
